@@ -1,17 +1,52 @@
-# studylog_flutter
+StudyLog – Flutter Practical Project
 
-A new Flutter project.
+StudyLog merupakan aplikasi pencatatan materi perkuliahan berbasis Flutter yang dikembangkan untuk memenuhi tugas Praktikum Pemrograman Mobile Milestone 1.
 
-## Getting Started
+Deskripsi Aplikasi
 
-This project is a starting point for a Flutter application.
+Aplikasi ini memungkinkan pengguna memasukkan catatan perkuliahan melalui form yang terdiri dari mata kuliah, judul catatan, topik, dan isi catatan. Data yang dimasukkan akan ditampilkan dalam bentuk Card dan disimpan sementara di dalam memori aplikasi.
 
-A few resources to get you started if this is your first Flutter project:
+Fitur Utama
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+* Form input catatan perkuliahan.
+* Validasi seluruh kolom input.
+* Validasi input kosong dan input yang hanya berisi spasi.
+* Validasi minimal panjang topik.
+* Menampilkan catatan dalam bentuk Card.
+* Memperbarui judul catatan.
+* Notifikasi menggunakan SnackBar.
+* Pengelolaan state menggunakan setState().
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Teknologi
+
+* Flutter
+* Dart
+* Visual Studio Code
+* Android Emulator
+
+Cara Menjalankan Aplikasi
+
+Pastikan Flutter SDK sudah terpasang, kemudian buka terminal pada folder proyek dan jalankan:
+
+flutter pub get
+flutter run
+
+Pengujian
+
+Pengujian aplikasi dilakukan menggunakan:
+
+* flutter analyze
+* flutter test
+* Manual functional testing melalui Android Emulator.
+
+Anggota Kelompok
+
+No.	Nama	NIM
+1	Erica Nabila Putri	2411002
+2	Salsabila Adnina Hadi	2411022
+3	Humaira Rizki Ramadhani	2411094
+4	Evi Suraidah	2411095
+5	Shofwan Alvino Putra Setiawan	2411097
+
+⸻
+
