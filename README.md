@@ -94,7 +94,8 @@ milestone_01_form/
 
 ⸻
 
----## 7. Anggota Kelompok
+---
+## 7. Anggota Kelompok
 
 | No. | Nama Lengkap | NIM |
 | --- | --- | --- |
