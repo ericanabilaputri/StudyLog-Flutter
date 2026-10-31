@@ -2,11 +2,15 @@ StudyLog – Flutter Practical Project
 
 StudyLog merupakan aplikasi pencatatan materi perkuliahan berbasis Flutter yang dikembangkan untuk memenuhi tugas Praktikum Pemrograman Mobile, khususnya Milestone 1.
 
+⸻
+
 1. Deskripsi Aplikasi
 
-Aplikasi StudyLog memungkinkan pengguna untuk memasukkan dan menampilkan catatan perkuliahan melalui form input. Informasi yang dimasukkan meliputi mata kuliah, judul catatan, topik, dan isi catatan.
+Aplikasi StudyLog memungkinkan pengguna memasukkan dan menampilkan catatan perkuliahan melalui form input. Informasi yang dimasukkan meliputi mata kuliah, judul catatan, topik, dan isi catatan.
 
 Data yang telah diisi akan ditampilkan dalam bentuk Card dan disimpan sementara di dalam memori aplikasi. Data tidak tersimpan secara permanen sehingga akan hilang ketika aplikasi dihentikan sepenuhnya.
+
+⸻
 
 2. Fitur Utama
 
@@ -19,6 +23,8 @@ Data yang telah diisi akan ditampilkan dalam bentuk Card dan disimpan sementara 
 * SnackBar: Menampilkan notifikasi setelah data berhasil ditampilkan.
 * State Management: Menggunakan setState() untuk memperbarui tampilan aplikasi.
 
+⸻
+
 3. Teknologi yang Digunakan
 
 Teknologi	Kegunaan
@@ -26,6 +32,8 @@ Flutter	Framework pengembangan aplikasi
 Dart	Bahasa pemrograman
 Visual Studio Code	Code editor
 Android Emulator	Menjalankan dan menguji aplikasi
+
+⸻
 
 4. Cara Menjalankan Aplikasi
 
@@ -41,24 +49,29 @@ Langkah 3. Jalankan aplikasi menggunakan perintah:
 
 flutter run
 
-## 5. Pengujian Aplikasi
+⸻
+
+5. Pengujian Aplikasi
 
 Pengujian dilakukan untuk memastikan seluruh fitur berjalan sesuai dengan kebutuhan dan spesifikasi aplikasi.
 
-*Metode pengujian:*
+Metode pengujian yang digunakan:
 
-- Functional Testing: Menguji fungsi form, validasi input, tombol, dan tampilan Card.
-- Widget Testing: Menguji perilaku komponen aplikasi menggunakan Flutter Test.
-- Static Analysis: Memeriksa kualitas kode menggunakan Flutter Analyze.
-- Manual Testing: Menguji aplikasi secara langsung melalui Android Emulator.
+* Functional Testing: Menguji fungsi form, validasi input, tombol, dan tampilan Card.
+* Widget Testing: Menguji perilaku komponen aplikasi menggunakan Flutter Test.
+* Static Analysis: Memeriksa kualitas kode menggunakan Flutter Analyze.
+* Manual Testing: Menguji aplikasi secara langsung melalui Android Emulator.
 
-*Perintah pengujian:*
+Perintah pengujian:
 
-```bash
 flutter analyze
 flutter test
 
+⸻
+
 6. Struktur Proyek
+
+Struktur folder utama aplikasi StudyLog Milestone 1:
 
 milestone_01_form/
 ├── android/
@@ -76,15 +89,16 @@ milestone_01_form/
 ├── pubspec.yaml
 └── README.md
 
-7. ## Anggota Kelompok
+⸻
 
-| No. | Nama Lengkap | NIM |
-| --- | --- | --- |
-| 1 | Erica Nabila Putri | 2411002 |
-| 2 | Salsabila Adnina Hadi | 2411022 |
-| 3 | Humaira Rizki Ramadhani | 2411094 |
-| 4 | Evi Suraidah | 2411095 |
-| 5 | Shofwan Alvino Putra Setiawan | 2411097 |
+7. Anggota Kelompok
+
+No.	Nama Lengkap	NIM
+1	Erica Nabila Putri	2411002
+2	Salsabila Adnina Hadi	2411022
+3	Humaira Rizki Ramadhani	2411094
+4	Evi Suraidah	2411095
+5	Shofwan Alvino Putra Setiawan	2411097
 
 ⸻
 
