@@ -92,9 +92,8 @@ milestone_01_form/
 ├── pubspec.yaml
 └── README.md
 
-⸻
-
 ---
+
 ## 7. Anggota Kelompok
 
 | No. | Nama Lengkap | NIM |
