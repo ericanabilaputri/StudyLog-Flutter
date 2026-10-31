@@ -71,8 +71,11 @@ flutter test
 
 6. Struktur Proyek
 
+## 6. Struktur Proyek
+
 Struktur folder utama aplikasi StudyLog Milestone 1:
 
+```text
 milestone_01_form/
 ├── android/
 ├── ios/
@@ -91,17 +94,18 @@ milestone_01_form/
 
 ⸻
 
-7. Anggota Kelompok
+## 7. Anggota Kelompok
 
-No.	Nama Lengkap	NIM
-1	Erica Nabila Putri	2411002
-2	Salsabila Adnina Hadi	2411022
-3	Humaira Rizki Ramadhani	2411094
-4	Evi Suraidah	2411095
-5	Shofwan Alvino Putra Setiawan	2411097
+| No. | Nama Lengkap | NIM |
+| --- | --- | --- |
+| 1 | Erica Nabila Putri | 2411002 |
+| 2 | Salsabila Adnina Hadi | 2411022 |
+| 3 | Humaira Rizki Ramadhani | 2411094 |
+| 4 | Evi Suraidah | 2411095 |
+| 5 | Shofwan Alvino Putra Setiawan | 2411097 |
 
-⸻
+---
 
-Praktikum Pemrograman Mobile – Milestone 1
+*Praktikum Pemrograman Mobile – Milestone 1*
 
 Repository ini merupakan bagian dari pengerjaan proyek StudyLog menggunakan Flutter.
