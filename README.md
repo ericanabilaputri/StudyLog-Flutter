@@ -41,7 +41,7 @@ Pengujian aplikasi dilakukan menggunakan:
 
 Anggota Kelompok
 
-No.	Nama	NIM
+No.	Nama Lengkap	NIM
 1	Erica Nabila Putri	2411002
 2	Salsabila Adnina Hadi	2411022
 3	Humaira Rizki Ramadhani	2411094
