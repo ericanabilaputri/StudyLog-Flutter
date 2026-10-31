@@ -94,7 +94,7 @@ milestone_01_form/
 
 ⸻
 
-## 7. Anggota Kelompok
+---## 7. Anggota Kelompok
 
 | No. | Nama Lengkap | NIM |
 | --- | --- | --- |
@@ -104,7 +104,7 @@ milestone_01_form/
 | 4 | Evi Suraidah | 2411095 |
 | 5 | Shofwan Alvino Putra Setiawan | 2411097 |
 
----
+
 
 *Praktikum Pemrograman Mobile – Milestone 1*
 
