@@ -41,19 +41,20 @@ Langkah 3. Jalankan aplikasi menggunakan perintah:
 
 flutter run
 
-5. Pengujian Aplikasi
+## 5. Pengujian Aplikasi
 
-Pengujian dilakukan untuk memastikan seluruh fitur berjalan sesuai dengan kebutuhan dan spesifikasi yang telah ditentukan.
+Pengujian dilakukan untuk memastikan seluruh fitur berjalan sesuai dengan kebutuhan dan spesifikasi aplikasi.
 
-Metode pengujian yang digunakan:
+*Metode pengujian:*
 
-* Functional Testing: Menguji fungsi form, validasi input, tombol, dan tampilan Card.
-* Widget Testing: Menguji perilaku komponen aplikasi menggunakan Flutter Test.
-* Static Analysis: Memeriksa kualitas kode menggunakan Flutter Analyze.
-* Manual Testing: Menguji aplikasi secara langsung melalui Android Emulator.
+- Functional Testing: Menguji fungsi form, validasi input, tombol, dan tampilan Card.
+- Widget Testing: Menguji perilaku komponen aplikasi menggunakan Flutter Test.
+- Static Analysis: Memeriksa kualitas kode menggunakan Flutter Analyze.
+- Manual Testing: Menguji aplikasi secara langsung melalui Android Emulator.
 
-Perintah pengujian:
+*Perintah pengujian:*
 
+```bash
 flutter analyze
 flutter test
 
@@ -75,14 +76,15 @@ milestone_01_form/
 ├── pubspec.yaml
 └── README.md
 
-7. Anggota Kelompok
+7. ## Anggota Kelompok
 
-No.	Nama Lengkap	NIM
-1	Erica Nabila Putri	2411002
-2	Salsabila Adnina Hadi	2411022
-3	Humaira Rizki Ramadhani	2411094
-4	Evi Suraidah	2411095
-5	Shofwan Alvino Putra Setiawan	2411097
+| No. | Nama Lengkap | NIM |
+| --- | --- | --- |
+| 1 | Erica Nabila Putri | 2411002 |
+| 2 | Salsabila Adnina Hadi | 2411022 |
+| 3 | Humaira Rizki Ramadhani | 2411094 |
+| 4 | Evi Suraidah | 2411095 |
+| 5 | Shofwan Alvino Putra Setiawan | 2411097 |
 
 ⸻
 
